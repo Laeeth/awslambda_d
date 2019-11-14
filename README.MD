@@ -86,3 +86,7 @@ And to list lambda functions on server:
 	aws lambda list-functions \
 	--max-items 10
 
+
+## Runtimes
+* [http://code.dlang.org/packages/aws-lambda-d](http://code.dlang.org/packages/aws-lambda-d)
+* [http://code.dlang.org/packages/lamb-d](http://code.dlang.org/packages/lamb-d)
